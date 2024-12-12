@@ -15,11 +15,11 @@ module.exports = {
 		envConfig: {}
 	},
 	onStart: async function ({ message }) {
-		const authorName = " ⩸ᗷᗩᎩᒍᏆᗞ⩸ ";
+		const authorName = " ⩸ALAMIN⩸ ";
 		const ownAge = "『 ⩸__17__⩸ 』";
-		const messenger = "https://m.me/100065506668822";
-		const authorFB = "https://www.facebook.com/profile.php?id=BAYJID.500k";
-		const authorNumber = "_01638007072";
+		const messenger = "https://m.me/61569568560258";
+		const authorFB = "https://www.facebook.com/profile.php?id=61569568560258";
+		const authorNumber = "_01748473269";
 		const Status = "⩸__🆂🅸🅽🅶🅻🅴__⩸";
 		const urls = [
 "https://i.imgur.com/I8JSUWI.jpeg",
